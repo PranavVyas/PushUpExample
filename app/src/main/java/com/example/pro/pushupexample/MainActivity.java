@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
     private void thisIsChangeCreatedinBranch01(){
         int Change = 1;
     }
+
+    private void thisischangecreatedinBranch02(){
+        int Change = 2;
+    }
 }
